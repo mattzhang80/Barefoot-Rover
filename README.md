@@ -1,2 +1,2 @@
 # Barefoot-Rover
-Machine Learning model to read MNIST numbers.
+Machine Learning model to predict MNIST numbers.
